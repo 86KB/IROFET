@@ -11,6 +11,7 @@ Designed for experimentation, dynamic signal shaping, harmonic coloration, and p
 
 
 Current revision: rev.03
+
 Working prototype stage.
 Schematics, panel files, and manufacturing data are subject to change.
 
