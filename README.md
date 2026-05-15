@@ -6,7 +6,7 @@ IROFET combines optically-controlled gain staging, JFET amplification, transform
 
 The circuit emphasizes progressive saturation, asymmetrical coloration, transient compression, and bias-dependent nonlinear behavior rather than static clipping or high-gain fuzz processing.
 
-Designed for experimentation, dynamic signal shaping, and analog signal degradation.
+Designed for experimentation, dynamic signal shaping, harmonic coloration, and progressive analog saturation.
 
 
 
