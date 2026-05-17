@@ -1,0 +1,41 @@
+Reference,Qty,Value,Details
+"C1,C2",2,100uF,THT D6.3mm P2.50mm
+"C3,C4",2,100nF,THT D5.0mm P2.50mm
+"C5,C6,C7",3,100nf,SMD:0805_2012
+C8,1,1uF,SMD:0805_2012
+C9,1,56pf,SMD:0805_2012
+"C10,C13",2,1uF,THT D5.0mm P2.50mm
+C11,1,100nf,THT D7.0mm P5.00mm
+C12,1,56uF,THT D6.3mm P2.50mm
+"C14,C15",2,10n,SMD:0805_2012
+C16,1,22p,SMD:0805_2012
+C17,1,1uF,THT Radial D6.3mm P2.50mm
+"D1,D2",2,1N5819,THT DO-201AD
+"D3,D4,D5",3,1N4148,SMD SOD80
+"D6,D7",2,LED,THT LED Red 3.0mm
+"FB1,FB2",2,Ferrite,Ferritebead or 10r
+J1,1,Conn 2x05 male,2.54mm Pinheader
+"J2,J3",2,Conn 1x08 female,2.54mm Pinheader
+"J4,J5",2,Conn 1x08 male,2.54mm Pinheader
+"J6, J7,J8",3,AudioJack,Jack_3.5mm QingPu
+Q1,1,BC547,TO-92L
+Q2,1,2N5457 (Central Brand),TO-92L (pinout may vary per brand)
+"R1,R13",2,470k,SMD 0805_2012
+"R2,R4,R5,R6,R16,R17,R19,R20",8,10k,SMD 0805_2012
+R3,1,100k,SMD 0805_2012
+R7,1,3.3k,SMD 0805_2012
+R8,1,51k,SMD 0805_2012
+R9,1,2.2k,SMD 0805_2012
+R10,1,47k,SMD 0805_2012
+R11,1,100r,SMD 0805_2012
+R12,1,2k2,SMD 0805_2012
+"R14,R22",2,1k,SMD 0805_2012
+R15,1,5k6,SMD 0805_2012
+"R18,R21",2,33k,SMD 0805_2012
+RV1,1,A100k,Potentiometer vertical
+RV2,1,B10k,Potentiometer vertical
+RV3,1,B50k Pot,Potentiometer vertical
+RV4,1,5k Pot,Potentiometer vertical
+T1,1,42TM018-RC,Xicon 42TM018-RC Audio-transformer
+U1,1,TL074,SOIC-14
+U2,1,LED + GL5516,DIY Vactrol LED Green/Yellow + GL5516
